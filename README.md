@@ -15,3 +15,5 @@ This repository contains the code, data, and documentation for a data science ca
 - Explore the processed data through EDA, SQL queries, statistical analysis, and data visualization to gain insights into the company's operations.
 - Utilize advanced analytical techniques, such as predictive modeling, to uncover patterns and make informed decisions.
 - Create a compelling presentation summarizing our findings and insights.
+
+![image](https://github.com/Brian-Parmer/IBM_Data_Science_Professional_Certificate/assets/142182257/f8b884da-a55d-42d6-acd5-92fd1c23b35b)
